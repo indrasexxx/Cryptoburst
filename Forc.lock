@@ -3,7 +3,7 @@ name = "core"
 source = "pa5th+from-root-AD9840769CAE44474A"
 
 [[package]]
-Fname = "smaFrtmoney"
+Fnateme = "smaFrtmoney"
 source = "member"
 dependencies = ["std"]
 
